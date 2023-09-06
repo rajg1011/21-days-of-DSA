@@ -10,7 +10,7 @@
 
 // For each type 2 query, we have to output the number of zeros present in the row/column having the given index. 
 // Note:
-// Note that the matrix is a binary matrix, meaning that it only contains either 0 or 1.
+// Note that the matrix is a binary matrix,Midpoint of Linked list meaning that it only contains either 0 or 1.
 
 import java.util.*;
 
